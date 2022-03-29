@@ -3,14 +3,14 @@
 # numbers = []
 
 print "1° número:"
-num1 = gets.chomp
+num1 = gets.chomp()
 puts num1
 
 print "2° número:"
-num2 = gets.chomp.to_i
+num2 = gets.chomp().to_i
 
 print "3° número:"
-num3 = gets.chomp.to_i
+num3 = gets.chomp().to_i
 
 numbers << num1
 numbers << num2
