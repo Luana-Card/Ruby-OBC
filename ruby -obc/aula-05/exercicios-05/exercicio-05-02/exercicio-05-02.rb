@@ -4,9 +4,9 @@ require 'cpf_cnpj'
 
 def validate_cpf(cpf)
     if CPF.valid?(cpf)
-        puts "CPF válido"
+        puts "O CPF informado é válido"
     elsif
-        puts "Deu erro"
+        puts "O CPF informado é inválido"
     end
 end
 
