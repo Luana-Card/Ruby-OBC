@@ -1,5 +1,4 @@
-gem 'rake' #exemplos de utilização de gemfile e bundler
-
+#exemplos de utilização de gemfile e bundler
 
 source "https://rubygems.org/"
 
