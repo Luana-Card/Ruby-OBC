@@ -1,0 +1,9 @@
+Ciar programa seguindo POO:
+
+Classes:
+1 - Esportista (com métodos: competir que imrpime "Participando de uma competição")
+2 - JoagadorDeFutebol (com métodos correr que imrpime "Correndo atrás da bola")
+3 - Maratonista (com métodos correr que imprime "Percorrendo o circuito)
+
+As classes JoagadorDeFutebol e Maratonista devem herdar os comportamentos da classe Esportista.
+No final do programa execute os métodos competir e correr em objetos do tipo JoagadorDeFutebol e Maratonista.

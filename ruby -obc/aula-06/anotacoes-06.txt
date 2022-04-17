@@ -1,0 +1,4 @@
+Abstração = Reduzir coisas do mundo real em uma classe
+Encapsulamento = Diversas partes que compoem um todo e podem se encapsular diversas vezes de forma flexível
+Herança = Modo para puxar características de uma classe para outra
+Polimorfismo = Capacidade de utilizar um método com diferentes efeitos
